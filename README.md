@@ -1,3 +1,5 @@
+[MXNet on Smart Device](https://mxnet.readthedocs.org/en/latest/tutorial/smart_device.html)
+
 # WhatsThis
 
 "What is it?" -- asked Disco the talking budgie.
